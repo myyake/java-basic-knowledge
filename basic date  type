@@ -1,0 +1,10 @@
+1.int --32bibt
+2.short --16bibt
+3.bype --8bibt
+4.long --64bibt
+
+浮点数：
+1.float --4byte
+2.double --default --8byte
+
+char --2byte
